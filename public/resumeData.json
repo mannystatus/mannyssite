@@ -1,0 +1,89 @@
+{
+  "main": {
+    "name": "Manny Contreras",
+    "occupation": "Senior IT Consultant",
+    "description": "Senior Information Technology leader with extensive experience driving business growth through innovative ideas. 10+ years technical experience as an IT Professional. Strong history of success in building information systems, network implementation/ administration in various industries (Entertainment, Animation, Adverting, Radio, Game VFX, Real Estate).",
+    "image": "profilepic.jpg",
+    "bio": "Senior Technology Expert",
+    "email": "manny@dotcotech.com",
+    "phone": "323-826-7771",
+    "address": {
+    "street": "(null)",
+    "city": "(Los Angeles)",
+    "state": "(California)",
+    "zip": "(90038)"
+    },
+    "website": "http://www.mannycontreras.com",
+    "resumedownload": "http://mannycontreras.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/wizetips",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mannycodes/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/mannycodes",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/mannycodes",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": { "skillmessage": "A senior IT Professional with over a decade of Technology experience",
+   
+    "work": [
+      {
+        "company": "attn.com",
+        "title": "Senior IT Manager ",
+        "years": "2021 - Present",
+        "description": "Managed small IT staff with along with supporting a 140+ growing staff. Responsible for updating and building a solid foundation that represents growth throughout the company. Major SaaS deployment in the following areas, Jamf, Crowd Strike, SnipeIT, Phishing Threat Prevention."
+      },
+      {
+        "company": "Jukin Media",
+        "title": "IT Director",
+        "years": "2018 - 2021",
+        "description": "Managed offices in L.A/NY & overseas (London, India) responsible for expanding new presence in Delhi India."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Networking",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Bash",
+        "level": "80%"
+      }
+    ]
+  }
+}
+   
