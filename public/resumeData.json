@@ -41,6 +41,18 @@
   "resume": { "skillmessage": "A senior IT Professional with over a decade of Technology experience",
    
     "work": [
+     {
+      "company": "tastemade.com",
+      "title": "Senior Manager of Technology ",
+      "years": "2023",
+      "description": "Provide strategic direction and oversee all technology operations, including systems implementation and data engineering and while being a hands on technology leader."
+    }, 
+      {
+        "company": "crookedmedia.com",
+        "title": "Senior IT Manager ",
+        "years": "2023",
+        "description": "Provide strategic direction and oversee all technology operations, including systems implementation and data engineering and while being a hands on technology leader."
+      },
       {
         "company": "attn.com",
         "title": "Senior IT Manager ",
